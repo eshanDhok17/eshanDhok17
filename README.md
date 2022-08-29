@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshan Dhok</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">A passionate Front-end developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshandhok17&label=Profile%20views&color=b40e96&style=flat" alt="eshandhok17" /> </p>
 
