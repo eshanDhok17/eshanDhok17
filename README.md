@@ -7,15 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
 - 🤝 I’m looking for help with **Backend Development**
 
-- 💬 Ask me about **Development**
-
 - 📫 How to reach me **dhoksoneshan@gmail.com**
-
-- ⚡ Fun fact **: be Consistent.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
