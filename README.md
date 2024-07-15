@@ -6,13 +6,13 @@
 ### <div align="center">I'm Eshan, a full-stack developer 👨‍💻</div>  
   
 
-🔭 I’m currently working on MERN Stack projects  
+🔭 I’m currently working on Web Scraping 
   
 
-🌱 I’m currently learning backend development  
+🌱 I’m currently learning Swift for iOS Development
   
 
-❓ Ask me about anything related to MERN stack and related technologies  
+❓ Ask me about anything related Anime
   
 
 ⚡ Fun fact: I like to watch space documentaries  
